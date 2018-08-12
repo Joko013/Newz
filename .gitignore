@@ -8,3 +8,4 @@ settings.py
 test.py
 *.pyc
 test.py
+.idea/inspectionProfiles/Project_Default.xml

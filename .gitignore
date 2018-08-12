@@ -5,3 +5,6 @@ settings.py
 .idea/modules.xml
 .idea/misc.xml
 .idea/vcs.xml
+test.py
+*.pyc
+test.py
